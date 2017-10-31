@@ -1,0 +1,53 @@
+name: ffma-demo
+channels:
+- defaults
+dependencies:
+- ca-certificates=2017.08.26=h1d4fec5_0
+- certifi=2017.7.27.1=py36h8b7b77e_0
+- click=6.7=py36h5253387_0
+- flask=0.12.2=py36hb24657c_0
+- intel-openmp=2018.0.0=h15fc484_7
+- itsdangerous=0.24=py36h93cc618_1
+- jinja2=2.9.6=py36h489bce4_1
+- libedit=3.1=heed3624_0
+- libffi=3.2.1=h4deb6c0_3
+- libgcc-ng=7.2.0=h7cc24e2_2
+- libstdcxx-ng=7.2.0=h7a57d05_2
+- markupsafe=1.0=py36hd9260cd_1
+- mkl=2018.0.0=hb491cac_4
+- ncurses=6.0=h06874d7_1
+- numpy=1.13.3=py36ha12f23b_0
+- openssl=1.0.2l=h077ae2c_5
+- pandas=0.20.3=py36h842e28d_2
+- pip=9.0.1=py36h6c6f9ce_4
+- python=3.6.3=hc9025b9_1
+- python-dateutil=2.6.1=py36h88d3b88_1
+- pytz=2017.2=py36hc2ccc2a_1
+- readline=7.0=hac23ff0_3
+- setuptools=36.5.0=py36he42e2e1_0
+- six=1.11.0=py36h372c433_1
+- sqlite=3.20.1=h6d8b0f3_1
+- tk=8.6.7=h5979e9b_1
+- werkzeug=0.12.2=py36hc703753_0
+- wheel=0.29.0=py36he7f4e38_1
+- xz=5.2.3=h2bcbf08_1
+- zlib=1.2.11=hfbfcf68_1
+- pip:
+  - chardet==3.0.4
+  - dash==0.19.0
+  - dash-core-components==0.14.0
+  - dash-html-components==0.8.0
+  - dash-renderer==0.11.1
+  - decorator==4.1.2
+  - flask-compress==1.4.0
+  - idna==2.6
+  - ipython-genutils==0.2.0
+  - jsonschema==2.6.0
+  - jupyter-core==4.3.0
+  - nbformat==4.4.0
+  - plotly==2.2.1
+  - requests==2.18.4
+  - traitlets==4.3.2
+  - urllib3==1.22
+prefix: /home/ubuntu/miniconda3/envs/ffma-demo
+
