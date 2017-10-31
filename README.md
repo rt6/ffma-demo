@@ -1,5 +1,7 @@
 # FFMA-DEMO
 
+Note: You will need to install miniconda if you do not already have conda on your system
+
 ## Get started in 3 steps:
 
 ### 1) create conda environment and install dependencies
