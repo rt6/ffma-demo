@@ -14,7 +14,8 @@ colors = {
     # 'background': '#111111',
     'background': 'white',
     # 'text': '#7FDBFF'
-    'text': '#2980b9'
+    # 'text': '#2980b9'
+    'text': '#3F51B5'
 }
 
 
